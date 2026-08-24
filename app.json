@@ -5,13 +5,22 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "owner": "xyzsachin929s-team",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
       "package": "com.paisaloots.app"
     },
-    "extra": {
-      "eas": {
-        "projectId": ""
-      }
+    "web": {
+      "favicon": ""
     }
   }
 }
