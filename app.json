@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Paisa Loots",
+    "slug": "paisaloots-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.paisaloots.app",
+      "versionCode": 1,
+      "permissions": ["INTERNET"]
+    }
+  }
+}
