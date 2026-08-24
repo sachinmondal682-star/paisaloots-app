@@ -4,10 +4,14 @@
     "slug": "paisaloots-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "xyzsachin929s-team",
     "android": {
-      "package": "com.paisaloots.app",
-      "versionCode": 1,
-      "permissions": ["INTERNET"]
+      "package": "com.paisaloots.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
     }
   }
 }
